@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 32 | 9 |
+| 33 | 9 |
 
 ---
 
@@ -16,11 +16,11 @@
 - [brute force](#brute-force) (6)
 - [dp](#dp) (1)
 - [greedy](#greedy) (5)
-- [implementation](#implementation) (22)
+- [implementation](#implementation) (23)
 - [math](#math) (9)
 - [number theory](#number-theory) (2)
 - [sortings](#sortings) (2)
-- [strings](#strings) (9)
+- [strings](#strings) (10)
 
 ---
 
@@ -63,6 +63,7 @@
 |---|---------|------------|----------|
 | 41A | [Translation](https://codeforces.com/contest/41/problem/A) | 800 | [Python 3](https://github.com/GaneshGG0/Codeforces/blob/HEAD/41/A%20-%20Translation/solution.py) |
 | 59A | [Word](https://codeforces.com/contest/59/problem/A) | 800 | [Python 3](https://github.com/GaneshGG0/Codeforces/blob/HEAD/59/A%20-%20Word/solution.py) |
+| 96A | [Football](https://codeforces.com/contest/96/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/GaneshGG0/Codeforces/blob/HEAD/96/A%20-%20Football/solution.cpp) |
 | 110A | [Nearly Lucky Number](https://codeforces.com/contest/110/problem/A) | 800 | [Python 3](https://github.com/GaneshGG0/Codeforces/blob/HEAD/110/A%20-%20Nearly%20Lucky%20Number/solution.py) |
 | 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [Python 3](https://github.com/GaneshGG0/Codeforces/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.py) |
 | 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [Python 3](https://github.com/GaneshGG0/Codeforces/blob/HEAD/158/A%20-%20Next%20Round/solution.py) |
@@ -119,6 +120,7 @@
 | 41A | [Translation](https://codeforces.com/contest/41/problem/A) | 800 | [Python 3](https://github.com/GaneshGG0/Codeforces/blob/HEAD/41/A%20-%20Translation/solution.py) |
 | 59A | [Word](https://codeforces.com/contest/59/problem/A) | 800 | [Python 3](https://github.com/GaneshGG0/Codeforces/blob/HEAD/59/A%20-%20Word/solution.py) |
 | 71A | [Way Too Long Words](https://codeforces.com/contest/71/problem/A) | 800 | [Python 3](https://github.com/GaneshGG0/Codeforces/blob/HEAD/71/A%20-%20Way%20Too%20Long%20Words/solution.py) |
+| 96A | [Football](https://codeforces.com/contest/96/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/GaneshGG0/Codeforces/blob/HEAD/96/A%20-%20Football/solution.cpp) |
 | 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [Python 3](https://github.com/GaneshGG0/Codeforces/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.py) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Python 3](https://github.com/GaneshGG0/Codeforces/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.py) |
 | 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [Python 3](https://github.com/GaneshGG0/Codeforces/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.py) |
