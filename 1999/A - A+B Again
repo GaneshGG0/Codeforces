@@ -1,17 +1,7 @@
-<h2><a href="https://codeforces.com/contest/1999/problem/A" target="_blank" rel="noopener noreferrer">1999A — A+B Again?</a></h2>
-
-| | |
-|---|---|
-| **Difficulty** | 800 |
-| **Language** | Python 3 |
-| **Verdict** | ✅ Accepted |
-| **Problem Link** | [Codeforces 1999A](https://codeforces.com/contest/1999/problem/A) |
-
-## Topics
-`implementation` `math`
-
----
-
-## Problem Statement
-
-_Problem statement could not be retrieved. Please visit the link above._
+import math
+a = int(input())
+for i in range(a):
+    b = input()
+    c = math.floor(int(b)/10)
+    d = int(b) % 10
+    print (c+ d)
