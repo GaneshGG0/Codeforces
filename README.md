@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 43 | 11 |
+| 44 | 11 |
 
 ---
 
@@ -18,11 +18,11 @@
 - [dp](#dp) (2)
 - [greedy](#greedy) (5)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (31)
+- [implementation](#implementation) (32)
 - [math](#math) (12)
 - [number theory](#number-theory) (2)
 - [sortings](#sortings) (2)
-- [strings](#strings) (10)
+- [strings](#strings) (11)
 
 ---
 
@@ -100,6 +100,7 @@
 | 677A | [Vanya and Fence](https://codeforces.com/contest/677/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/GaneshGG0/Codeforces/blob/HEAD/677/A%20-%20Vanya%20and%20Fence/solution.cpp) |
 | 705A | [Hulk](https://codeforces.com/contest/705/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/GaneshGG0/Codeforces/blob/HEAD/705/A%20-%20Hulk/solution.cpp) |
 | 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [Python 3](https://github.com/GaneshGG0/Codeforces/blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.py) |
+| 785A | [Anton and Polyhedrons](https://codeforces.com/contest/785/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/GaneshGG0/Codeforces/blob/HEAD/785/A%20-%20Anton%20and%20Polyhedrons/solution.cpp) |
 | 791A | [Bear and Big Brother](https://codeforces.com/contest/791/problem/A) | 800 | [Python 3](https://github.com/GaneshGG0/Codeforces/blob/HEAD/791/A%20-%20Bear%20and%20Big%20Brother/solution.py) |
 | 977A | [Wrong Subtraction](https://codeforces.com/contest/977/problem/A) | 800 | [Python 3](https://github.com/GaneshGG0/Codeforces/blob/HEAD/977/A%20-%20Wrong%20Subtraction/solution.py) |
 | 1030A | [In Search of an Easy Problem](https://codeforces.com/contest/1030/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/GaneshGG0/Codeforces/blob/HEAD/1030/A%20-%20In%20Search%20of%20an%20Easy%20Problem/solution.cpp) |
@@ -154,6 +155,7 @@
 | 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [Python 3](https://github.com/GaneshGG0/Codeforces/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.py) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Python 3](https://github.com/GaneshGG0/Codeforces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.py) |
 | 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [Python 3](https://github.com/GaneshGG0/Codeforces/blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.py) |
+| 785A | [Anton and Polyhedrons](https://codeforces.com/contest/785/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/GaneshGG0/Codeforces/blob/HEAD/785/A%20-%20Anton%20and%20Polyhedrons/solution.cpp) |
 | 1703A | [YES or YES?](https://codeforces.com/contest/1703/problem/A) | 800 | [Python 3](https://github.com/GaneshGG0/Codeforces/blob/HEAD/1703/A%20-%20YES%20or%20YES%3F/solution.py) |
 
 ---
