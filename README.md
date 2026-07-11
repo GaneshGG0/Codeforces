@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 47 | 11 |
+| 48 | 11 |
 
 ---
 
@@ -18,7 +18,7 @@
 - [dp](#dp) (2)
 - [greedy](#greedy) (5)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (35)
+- [implementation](#implementation) (36)
 - [math](#math) (12)
 - [number theory](#number-theory) (2)
 - [sortings](#sortings) (2)
@@ -107,6 +107,7 @@
 | 1669A | [Division?](https://codeforces.com/contest/1669/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/GaneshGG0/Codeforces/blob/HEAD/1669/A%20-%20Division%3F/solution.cpp) |
 | 1703A | [YES or YES?](https://codeforces.com/contest/1703/problem/A) | 800 | [Python 3](https://github.com/GaneshGG0/Codeforces/blob/HEAD/1703/A%20-%20YES%20or%20YES%3F/solution.py) |
 | 1742A | [Sum](https://codeforces.com/contest/1742/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/GaneshGG0/Codeforces/blob/HEAD/1742/A%20-%20Sum/solution.cpp) |
+| 1772A | [A+B?](https://codeforces.com/contest/1772/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/GaneshGG0/Codeforces/blob/HEAD/1772/A%20-%20A%2BB%3F/solution.cpp) |
 | 1791A | [Codeforces Checking](https://codeforces.com/contest/1791/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/GaneshGG0/Codeforces/blob/HEAD/1791/A%20-%20Codeforces%20Checking/solution.cpp) |
 | 1829A | [Love Story](https://codeforces.com/contest/1829/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/GaneshGG0/Codeforces/blob/HEAD/1829/A%20-%20Love%20Story/solution.cpp) |
 | 1985A | [Creating Words](https://codeforces.com/contest/1985/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/GaneshGG0/Codeforces/blob/HEAD/1985/A%20-%20Creating%20Words/solution.cpp) |
