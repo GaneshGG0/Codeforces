@@ -1,0 +1,23 @@
+<h2><a href="https://codeforces.com/contest/1985/problem/A" target="_blank" rel="noopener noreferrer">1985A — Creating Words</a></h2>
+
+| | |
+|---|---|
+| **Difficulty** | 800 |
+| **Language** | C++23 (GCC 14-64, msys2) |
+| **Verdict** | ✅ Accepted |
+| **Problem Link** | [Codeforces 1985A](https://codeforces.com/contest/1985/problem/A) |
+
+## Topics
+`implementation` `strings`
+
+---
+
+## Problem Statement
+
+<div class="header"><div class="title">A. Creating Words</div><div id="cf-note-wrapper" style="display: flex; align-items: center; justify-content: center; margin-top: 10px; width: 100%;"><button class="cf-ext-note-btn" style="border: 1px solid rgba(120, 120, 120, 0.25); background: rgba(255, 255, 255, 0.7); backdrop-filter: blur(8px); border-radius: 999px; padding: 7px 15px; font-size: 13px; cursor: pointer; color: rgb(51, 51, 51); box-shadow: rgba(0, 0, 0, 0.05) 0px 2px 10px;">📝 Add Note</button></div><div class="cf-ext-note-box" style="display: none; width: min(560px, 92%); margin: 14px auto 0px; padding: 14px; border-radius: 18px; border: 1px solid rgba(120, 120, 120, 0.18); background: rgba(255, 255, 255, 0.63); backdrop-filter: blur(10px); box-shadow: rgba(0, 0, 0, 0.05) 0px 8px 24px;"><textarea placeholder="Write your note..." class="cf-ext-note-textarea" style="width: 100%; min-height: 150px; resize: vertical; padding: 12px; box-sizing: border-box; border-radius: 14px; border: 1px solid rgba(120, 120, 120, 0.2); background: rgba(255, 255, 255, 0.75); font-size: 14px; outline: none;"></textarea><div style="display: flex; justify-content: flex-end; gap: 8px; margin-top: 10px;"><button class="cf-ext-note-btn cf-ext-note-btn-action" style="border: 1px solid rgba(120, 120, 120, 0.2); background: rgba(255, 255, 255, 0.72); border-radius: 999px; padding: 7px 14px; cursor: pointer; font-size: 13px; color: rgb(34, 34, 34); backdrop-filter: blur(8px);">Save</button><button class="cf-ext-note-btn cf-ext-note-btn-danger" style="border: 1px solid rgba(120, 120, 120, 0.2); background: rgba(255, 240, 240, 0.75); border-radius: 999px; padding: 7px 14px; cursor: pointer; font-size: 13px; color: rgb(176, 0, 32); backdrop-filter: blur(8px);">Delete</button></div></div><div class="time-limit"><div class="property-title">time limit per test</div>1 second</div><div class="memory-limit"><div class="property-title">memory limit per test</div>256 megabytes</div><div class="input-file input-standard"><div class="property-title">input</div>standard input</div><div class="output-file output-standard"><div class="property-title">output</div>standard output</div></div><div><p>Matthew is given two strings $$$a$$$ and $$$b$$$, both of length $$$3$$$. He thinks it's particularly funny to create two new words by swapping the first character of $$$a$$$ with the first character of $$$b$$$. He wants you to output $$$a$$$ and $$$b$$$ after the swap.</p><p>Note that the new words may not necessarily be different.</p></div><div class="input-specification"><div class="section-title">Input</div><p>The first line contains $$$t$$$ ($$$1 \leq t \leq 100$$$)  — the number of test cases.</p><p>The first and only line of each test case contains two space-separated strings, $$$a$$$ and $$$b$$$, both of length $$$3$$$. The strings only contain lowercase Latin letters.</p></div><div class="output-specification"><div class="section-title">Output</div><p>For each test case, after the swap, output $$$a$$$ and $$$b$$$, separated by a space.</p></div><div class="sample-tests"><div class="section-title">Example</div><div class="sample-test"><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id009359930475747719" id="id009247587686428138" class="input-output-copier">Copy</div></div><pre id="id009359930475747719"><div class="test-example-line test-example-line-even test-example-line-0">6</div><div class="test-example-line test-example-line-odd test-example-line-1">bit set</div><div class="test-example-line test-example-line-even test-example-line-2">cat dog</div><div class="test-example-line test-example-line-odd test-example-line-3">hot dog</div><div class="test-example-line test-example-line-even test-example-line-4">uwu owo</div><div class="test-example-line test-example-line-odd test-example-line-5">cat cat</div><div class="test-example-line test-example-line-even test-example-line-6">zzz zzz</div></pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id003933792596603882" id="id008976202522213269" class="input-output-copier">Copy</div></div><pre id="id003933792596603882">sit bet
+dat cog
+dot hog
+owu uwo
+cat cat
+zzz zzz
+</pre></div></div></div>
