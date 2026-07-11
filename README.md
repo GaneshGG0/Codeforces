@@ -6,20 +6,20 @@
 
 | Total Problems | Topics |
 |---|---|
-| 48 | 11 |
+| 49 | 11 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (1)
-- [brute force](#brute-force) (8)
+- [brute force](#brute-force) (9)
 - [data structures](#data-structures) (1)
 - [dp](#dp) (2)
 - [greedy](#greedy) (5)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (36)
-- [math](#math) (12)
+- [math](#math) (13)
 - [number theory](#number-theory) (2)
 - [sortings](#sortings) (2)
 - [strings](#strings) (14)
@@ -37,6 +37,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [Python 3](https://github.com/GaneshGG0/Codeforces/blob/HEAD/4/A%20-%20Watermelon/solution.py) |
+| 47A | [Triangular numbers](https://codeforces.com/contest/47/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/GaneshGG0/Codeforces/blob/HEAD/47/A%20-%20Triangular%20numbers/solution.cpp) |
 | 122A | [Lucky Division](https://codeforces.com/contest/122/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/GaneshGG0/Codeforces/blob/HEAD/122/A%20-%20Lucky%20Division/solution.cpp) |
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [Python 3](https://github.com/GaneshGG0/Codeforces/blob/HEAD/231/A%20-%20Team/solution.py) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Python 3](https://github.com/GaneshGG0/Codeforces/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.py) |
@@ -121,6 +122,7 @@
 |---|---------|------------|----------|
 | 1A | [Theatre Square](https://codeforces.com/contest/1/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/GaneshGG0/Codeforces/blob/HEAD/1/A%20-%20Theatre%20Square/solution.cpp) |
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [Python 3](https://github.com/GaneshGG0/Codeforces/blob/HEAD/4/A%20-%20Watermelon/solution.py) |
+| 47A | [Triangular numbers](https://codeforces.com/contest/47/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/GaneshGG0/Codeforces/blob/HEAD/47/A%20-%20Triangular%20numbers/solution.cpp) |
 | 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [Python 3](https://github.com/GaneshGG0/Codeforces/blob/HEAD/50/A%20-%20Domino%20piling/solution.py) |
 | 486A | [Calculating Function](https://codeforces.com/contest/486/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/GaneshGG0/Codeforces/blob/HEAD/486/A%20-%20Calculating%20Function/solution.cpp) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/GaneshGG0/Codeforces/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.cpp) |
