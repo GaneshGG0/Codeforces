@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 52 | 12 |
+| 53 | 12 |
 
 ---
 
@@ -19,8 +19,8 @@
 - [dp](#dp) (2)
 - [greedy](#greedy) (5)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (37)
-- [math](#math) (13)
+- [implementation](#implementation) (38)
+- [math](#math) (14)
 - [number theory](#number-theory) (2)
 - [sortings](#sortings) (2)
 - [strings](#strings) (15)
@@ -89,6 +89,7 @@
 |---|---------|------------|----------|
 | 41A | [Translation](https://codeforces.com/contest/41/problem/A) | 800 | [Python 3](https://github.com/GaneshGG0/Codeforces/blob/HEAD/41/A%20-%20Translation/solution.py) |
 | 59A | [Word](https://codeforces.com/contest/59/problem/A) | 800 | [Python 3](https://github.com/GaneshGG0/Codeforces/blob/HEAD/59/A%20-%20Word/solution.py) |
+| 69A | [Young Physicist](https://codeforces.com/contest/69/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/GaneshGG0/Codeforces/blob/HEAD/69/A%20-%20Young%20Physicist/solution.cpp) |
 | 96A | [Football](https://codeforces.com/contest/96/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/GaneshGG0/Codeforces/blob/HEAD/96/A%20-%20Football/solution.cpp) |
 | 110A | [Nearly Lucky Number](https://codeforces.com/contest/110/problem/A) | 800 | [Python 3](https://github.com/GaneshGG0/Codeforces/blob/HEAD/110/A%20-%20Nearly%20Lucky%20Number/solution.py) |
 | 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [Python 3](https://github.com/GaneshGG0/Codeforces/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.py) |
@@ -133,6 +134,7 @@
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [Python 3](https://github.com/GaneshGG0/Codeforces/blob/HEAD/4/A%20-%20Watermelon/solution.py) |
 | 47A | [Triangular numbers](https://codeforces.com/contest/47/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/GaneshGG0/Codeforces/blob/HEAD/47/A%20-%20Triangular%20numbers/solution.cpp) |
 | 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [Python 3](https://github.com/GaneshGG0/Codeforces/blob/HEAD/50/A%20-%20Domino%20piling/solution.py) |
+| 69A | [Young Physicist](https://codeforces.com/contest/69/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/GaneshGG0/Codeforces/blob/HEAD/69/A%20-%20Young%20Physicist/solution.cpp) |
 | 486A | [Calculating Function](https://codeforces.com/contest/486/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/GaneshGG0/Codeforces/blob/HEAD/486/A%20-%20Calculating%20Function/solution.cpp) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/GaneshGG0/Codeforces/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.cpp) |
 | 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [Python 3](https://github.com/GaneshGG0/Codeforces/blob/HEAD/617/A%20-%20Elephant/solution.py) |
