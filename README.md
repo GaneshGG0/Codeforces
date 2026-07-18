@@ -6,14 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 68 | 12 |
+| 69 | 12 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (1)
-- [Uncategorized](#uncategorized) (13)
+- [Uncategorized](#uncategorized) (14)
 - [brute force](#brute-force) (9)
 - [data structures](#data-structures) (1)
 - [dp](#dp) (2)
@@ -48,6 +48,7 @@
 | 2246A | [farmpiggie and Subset Sum](https://codeforces.com/contest/2246/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/GaneshGG0/Codeforces/blob/HEAD/2246/A%20-%20farmpiggie%20and%20Subset%20Sum/solution.cpp) |
 | 2246B | [ezraft and Array](https://codeforces.com/contest/2246/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/GaneshGG0/Codeforces/blob/HEAD/2246/B%20-%20ezraft%20and%20Array/solution.cpp) |
 | 2247A | [Zero Sum](https://codeforces.com/contest/2247/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/GaneshGG0/Codeforces/blob/HEAD/2247/A%20-%20Zero%20Sum/solution.cpp) |
+| 2247B | [Yet Another Constructive](https://codeforces.com/contest/2247/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/GaneshGG0/Codeforces/blob/HEAD/2247/B%20-%20Yet%20Another%20Constructive/solution.cpp) |
 | 2247C | [Inversion of a Subsequence](https://codeforces.com/contest/2247/problem/C) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/GaneshGG0/Codeforces/blob/HEAD/2247/C%20-%20Inversion%20of%20a%20Subsequence/solution.cpp) |
 | 2247D1 | [XOR Sorting (Easy Version)](https://codeforces.com/contest/2247/problem/D1) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/GaneshGG0/Codeforces/blob/HEAD/2247/D1%20-%20XOR%20Sorting%20(Easy%20Version)/solution.cpp) |
 
